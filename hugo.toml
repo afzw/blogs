@@ -85,10 +85,6 @@ tocopen = false
   url = "https://twitter.com/afzw_"
 
   [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
-
-  [[params.socialIcons]]
   name = "zhihu"
   url = "https://www.zhihu.com/people/_afzw"
 
