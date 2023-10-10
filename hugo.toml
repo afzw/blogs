@@ -1,0 +1,143 @@
+baseURL = 'https://blog.afzw.xyz/'
+languageCode = 'zh-cn'
+title = '独斟此夜寒'
+paginate = 5
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-123-45"
+pygmentsUseClasses = true
+
+disqusShortname = 'blog-afzw'
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "独斟此夜寒"
+description = "樊胜的博客"
+keywords = [ "Blog", "Portfolio", "PaperMod" ]
+author = "afzw"
+images = [ "./assets/mengbi.jpg" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = true
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.assets]
+  favicon = "./assets/mengbi.jpg"
+  favicon16x16 = "./assets/mengbi.jpg"
+  favicon32x32 = "./assets/mengbi.jpg"
+  apple_touch_icon = "./assets/mengbi.jpg"
+  safari_pinned_tab = "./assets/mengbi.jpg"
+
+  [params.label]
+  text = "Home"
+  icon = "/apple-touch-icon.png"
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = false
+  title = "ExampleSite"
+  subtitle = "This is subtitle"
+  imageUrl = "<img location>"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "独斟此夜寒"
+  Content = "樊胜的博客"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/afzw/"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/afzw_"
+
+  [[params.socialIcons]]
+  name = "stackoverflow"
+  url = "https://stackoverflow.com"
+
+  [[params.socialIcons]]
+  name = "zhihu"
+  url = "https://www.zhihu.com/people/_afzw"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.editPost]
+  URL = "https://github.com/<path_to_repo>/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+#[[menu.main]]
+#identifier = "example"
+# name = "example.org"
+# url = "https://example.org"
+# weight = 30
+
+[markup.highlight]
+noClasses = false
+
