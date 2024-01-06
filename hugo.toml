@@ -113,7 +113,7 @@ url = "https://www.zhihu.com/people/_afzw"
 
 [[params.socialIcons]]
 name = "rss"
-url = "https//blog.afzw.xyz/index.xml"
+url = "https://blog.afzw.xyz/index.xml"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
