@@ -15,7 +15,7 @@ tags = [
   "blog",
   "minimalist",
   "highlight.js",
-  "search"
+  "search",
 ]
 features = [
   "responsive",
@@ -35,17 +35,17 @@ features = [
   "theme-toggle",
   "menu-location-indicator",
   "scroll-to-top",
-  "search"
+  "search",
 ]
 min_version = "0.97.1"
 
 [author]
-  name = "Aditya Telange"
-  homepage = "https://github.com/adityatelange/"
+name = "Aditya Telange"
+homepage = "https://github.com/adityatelange/"
 
 # If porting an existing theme
 [original]
-  name = "Paper"
-  author = "nanxiaobei"
-  homepage = "https://github.com/nanxiaobei"
-  repo = "https://github.com/nanxiaobei/hugo-paper/"
+name = "Paper"
+author = "nanxiaobei"
+homepage = "https://github.com/nanxiaobei"
+repo = "https://github.com/nanxiaobei/hugo-paper/"
