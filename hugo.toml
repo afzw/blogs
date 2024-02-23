@@ -27,7 +27,7 @@ title = "谈何与铭"
 description = "天行健，君子以自强不息"
 keywords = ["Blog", "Portfolio", "PaperMod"]
 author = "afzw"
-images = ["./assets/mengbi.jpg"]
+images = ["./assets/icon.png"]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -48,12 +48,15 @@ hideSummary = false
 showtoc = false
 tocopen = false
 
-[params.assets]
-favicon = "./assets/mengbi.jpg"
-favicon16x16 = "./assets/mengbi.jpg"
-favicon32x32 = "./assets/mengbi.jpg"
-apple_touch_icon = "./assets/mengbi.jpg"
-safari_pinned_tab = "./assets/mengbi.jpg"
+[params.meta]
+favicon = false
+
+# [params.assets]
+# favicon = "./assets/icon.png"
+# favicon16x16 = "./assets/icon.png"
+# favicon32x32 = "./assets/icon.png"
+# apple_touch_icon = "./assets/icon.png"
+# safari_pinned_tab = "./assets/icon.png"
 
 [params.label]
 text = "首页"

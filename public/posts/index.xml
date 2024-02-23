@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 谈何与铭</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 谈何与铭</description>
+    <image>
+      <title>谈何与铭</title>
+      <url>http://localhost:1313/assets/icon.png</url>
+      <link>http://localhost:1313/assets/icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>观沧海</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>东临碣石，以观沧海。
+水何澹澹，山岛竦峙。
+树木丛生，百草丰茂。
+秋风萧瑟，洪波涌起。
+日月之行，若出其中；
+星汉灿烂，若出其里。
+幸甚至哉，歌以咏志。</description>
+      <content:encoded><![CDATA[<p>东临碣石，以观沧海。</p>
+<p>水何澹澹，山岛竦峙。</p>
+<p>树木丛生，百草丰茂。</p>
+<p>秋风萧瑟，洪波涌起。</p>
+<p>日月之行，若出其中；</p>
+<p>星汉灿烂，若出其里。</p>
+<p>幸甚至哉，歌以咏志。</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
