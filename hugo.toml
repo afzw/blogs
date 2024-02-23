@@ -97,7 +97,7 @@ url = "tags"
 
 [params.homeInfoParams]
 Title = "谈何与铭"
-Content = "个人博客"
+Content = "天行健 君子以自强不息"
 
 [[params.socialIcons]]
 name = "github"
