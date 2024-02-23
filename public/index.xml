@@ -13,25 +13,19 @@
     <language>zh-cn</language>
     <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>观沧海</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <title>road</title>
+      <link>http://localhost:1313/posts/road/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>东临碣石，以观沧海。
-水何澹澹，山岛竦峙。
-树木丛生，百草丰茂。
-秋风萧瑟，洪波涌起。
-日月之行，若出其中；
-星汉灿烂，若出其里。
-幸甚至哉，歌以咏志。</description>
-      <content:encoded><![CDATA[<p>东临碣石，以观沧海。</p>
-<p>水何澹澹，山岛竦峙。</p>
-<p>树木丛生，百草丰茂。</p>
-<p>秋风萧瑟，洪波涌起。</p>
-<p>日月之行，若出其中；</p>
-<p>星汉灿烂，若出其里。</p>
-<p>幸甚至哉，歌以咏志。</p>
+      <guid>http://localhost:1313/posts/road/</guid>
+      <description>人生的路是应该越走越顺的，我认为。
+如果你发现越走越难，那应该是走错了方向，这个时候应该停下脚步，好好想一想自己到底在做什么，自己到底想做什么。
+如果一直想不明白，也不用一直想，可以先换一个方向走试试，因为虽然你不知道该走哪条路，但至少你明确之前的路一定不对。
+每人的路都不同，多走走，最终都会找到适合自己的路的。</description>
+      <content:encoded><![CDATA[<p>人生的路是应该越走越顺的，我认为。</p>
+<p>如果你发现越走越难，那应该是走错了方向，这个时候应该停下脚步，好好想一想自己到底在做什么，自己到底想做什么。</p>
+<p>如果一直想不明白，也不用一直想，可以先换一个方向走试试，因为虽然你不知道该走哪条路，但至少你明确之前的路一定不对。</p>
+<p>每人的路都不同，多走走，最终都会找到适合自己的路的。</p>
 ]]></content:encoded>
     </item>
     
