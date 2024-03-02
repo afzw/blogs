@@ -148,3 +148,7 @@ keys = ["title", "permalink", "summary", "content"]
 
 [markup.highlight]
 noClasses = false
+
+[taxonomies]
+tag = "tags"
+category = "categories"
