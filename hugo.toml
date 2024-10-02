@@ -1,6 +1,6 @@
 baseURL = 'https://blog.afzw.xyz/'
 languageCode = 'zh-cn'
-title = '若路则游兮'
+title = '若则随记'
 paginate = 5
 theme = 'PaperMod'
 
@@ -23,8 +23,8 @@ rss = ['rss']
 
 [params]
 env = "production"
-title = "若路则游兮"
-description = "天行健，君子以自强不息"
+title = "若则随记"
+description = "无处不青山"
 keywords = ["Blog", "Portfolio", "PaperMod"]
 author = "afzw"
 images = ["./assets/icon.png"]
@@ -99,8 +99,8 @@ name = "Tags"
 url = "tags"
 
 [params.homeInfoParams]
-Title = "若路则游兮"
-Content = "天行健 君子以自强不息"
+Title = "若则随记"
+Content = "无处不青山"
 
 [[params.socialIcons]]
 name = "github"
