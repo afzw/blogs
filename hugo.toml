@@ -24,7 +24,7 @@ rss = ['rss']
 [params]
 env = "production"
 title = "若则随记"
-description = "无处不青山"
+description = "路在脚下，行则将至"
 keywords = ["Blog", "Portfolio", "PaperMod"]
 author = "afzw"
 images = ["./assets/icon.png"]
@@ -100,7 +100,7 @@ url = "tags"
 
 [params.homeInfoParams]
 Title = "若则随记"
-Content = "无处不青山"
+Content = "路在脚下，行则将至"
 
 [[params.socialIcons]]
 name = "github"
